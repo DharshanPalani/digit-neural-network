@@ -1,4 +1,13 @@
-Pillow
-numpy
-scikit-learn
-tkinter
+# Python dependencies
+joblib==1.4.2
+numpy==2.2.1
+pillow==11.0.0
+scikit-learn==1.6.0
+scipy==1.14.1
+threadpoolctl==3.5.0
+
+# Note: Tkinter is part of Python's standard library.
+#       Ensure it is installed via your system package manager:
+#       - Ubuntu/Debian: sudo apt-get install python3-tk
+#       - Fedora: sudo dnf install python3-tkinter
+#       - macOS: Included with Python from python.org
